@@ -1,0 +1,742 @@
+[
+ {
+  "n": 1,
+  "k": 0,
+  "date": "2026-11-09",
+  "time": "16:00",
+  "slug": "suite-725-on-main-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-suite-725-on-main-sep26-story-2026.png",
+  "property": "Suite 725 on Main",
+  "tag": "GLVSTORY26-01a"
+ },
+ {
+  "n": 1,
+  "k": 1,
+  "date": "2026-11-09",
+  "time": "16:01",
+  "slug": "brick-and-mortar-city-loft-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-brick-and-mortar-city-loft-sep26-story-2026.png",
+  "property": "Brick and Mortar City Loft",
+  "tag": "GLVSTORY26-01b"
+ },
+ {
+  "n": 1,
+  "k": 2,
+  "date": "2026-11-09",
+  "time": "16:02",
+  "slug": "slow-yourself-down-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-slow-yourself-down-sep26-story-2026.png",
+  "property": "Slow Yourself Down",
+  "tag": "GLVSTORY26-01c"
+ },
+ {
+  "n": 2,
+  "k": 0,
+  "date": "2026-11-10",
+  "time": "16:00",
+  "slug": "black-walnut-farm-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-black-walnut-farm-sep26-story-2026.png",
+  "property": "Black Walnut Farm",
+  "tag": "GLVSTORY26-02a"
+ },
+ {
+  "n": 2,
+  "k": 1,
+  "date": "2026-11-10",
+  "time": "16:01",
+  "slug": "the-nest-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-the-nest-aug26-story-2026.png",
+  "property": "The Nest",
+  "tag": "GLVSTORY26-02b"
+ },
+ {
+  "n": 2,
+  "k": 2,
+  "date": "2026-11-10",
+  "time": "16:02",
+  "slug": "geneva-beach-house-como-suite-oct26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-geneva-beach-house-como-suite-oct26-story-2026.png",
+  "property": "Geneva Beach House Como Suite",
+  "tag": "GLVSTORY26-02c"
+ },
+ {
+  "n": 3,
+  "k": 0,
+  "date": "2026-11-11",
+  "time": "16:00",
+  "slug": "spare-time-retreat-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-spare-time-retreat-sep26-story-2026.png",
+  "property": "Spare Time Retreat",
+  "tag": "GLVSTORY26-03a"
+ },
+ {
+  "n": 3,
+  "k": 1,
+  "date": "2026-11-11",
+  "time": "16:01",
+  "slug": "campfire-cottage-oct26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-campfire-cottage-oct26-story-2026.png",
+  "property": "Campfire Cottage",
+  "tag": "GLVSTORY26-03b"
+ },
+ {
+  "n": 3,
+  "k": 2,
+  "date": "2026-11-11",
+  "time": "16:02",
+  "slug": "la-suite-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-la-suite-sep26-story-2026.png",
+  "property": "La Suite",
+  "tag": "GLVSTORY26-03c"
+ },
+ {
+  "n": 4,
+  "k": 0,
+  "date": "2026-11-12",
+  "time": "16:00",
+  "slug": "white-house-on-wisconsin-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-white-house-on-wisconsin-sep26-story-2026.png",
+  "property": "White House on Wisconsin",
+  "tag": "GLVSTORY26-04a"
+ },
+ {
+  "n": 4,
+  "k": 1,
+  "date": "2026-11-12",
+  "time": "16:01",
+  "slug": "the-bungalow-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-the-bungalow-sep26-story-2026.png",
+  "property": "The Bungalow",
+  "tag": "GLVSTORY26-04b"
+ },
+ {
+  "n": 4,
+  "k": 2,
+  "date": "2026-11-12",
+  "time": "16:02",
+  "slug": "pickleball-paradise-penthouse-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-pickleball-paradise-penthouse-sep26-story-2026.png",
+  "property": "Pickleball Paradise Penthouse",
+  "tag": "GLVSTORY26-04c"
+ },
+ {
+  "n": 5,
+  "k": 0,
+  "date": "2026-11-13",
+  "time": "16:00",
+  "slug": "the-tree-house-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-the-tree-house-sep26-story-2026.png",
+  "property": "The Tree House",
+  "tag": "GLVSTORY26-05a"
+ },
+ {
+  "n": 5,
+  "k": 1,
+  "date": "2026-11-13",
+  "time": "16:01",
+  "slug": "lookout-lodge-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-lookout-lodge-sep26-story-2026.png",
+  "property": "Lookout Lodge",
+  "tag": "GLVSTORY26-05b"
+ },
+ {
+  "n": 5,
+  "k": 2,
+  "date": "2026-11-13",
+  "time": "16:02",
+  "slug": "comotose-by-the-lake-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-comotose-by-the-lake-sep26-story-2026.png",
+  "property": "Comotose by the Lake",
+  "tag": "GLVSTORY26-05c"
+ },
+ {
+  "n": 6,
+  "k": 0,
+  "date": "2026-11-14",
+  "time": "16:00",
+  "slug": "downtown-hideaway-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-downtown-hideaway-sep26-story-2026.png",
+  "property": "Downtown Hideaway",
+  "tag": "GLVSTORY26-06a"
+ },
+ {
+  "n": 6,
+  "k": 1,
+  "date": "2026-11-14",
+  "time": "16:01",
+  "slug": "lakeside-villa-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-lakeside-villa-aug26-story-2026.png",
+  "property": "Lakeside Villa",
+  "tag": "GLVSTORY26-06b"
+ },
+ {
+  "n": 6,
+  "k": 2,
+  "date": "2026-11-14",
+  "time": "16:02",
+  "slug": "timber-ridge-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-timber-ridge-sep26-story-2026.png",
+  "property": "Timber Ridge",
+  "tag": "GLVSTORY26-06c"
+ },
+ {
+  "n": 7,
+  "k": 0,
+  "date": "2026-11-15",
+  "time": "16:00",
+  "slug": "lost-oak-on-center-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-lost-oak-on-center-aug26-story-2026.png",
+  "property": "Lost Oak on Center",
+  "tag": "GLVSTORY26-07a"
+ },
+ {
+  "n": 7,
+  "k": 1,
+  "date": "2026-11-15",
+  "time": "16:01",
+  "slug": "blue-spring-lake-club-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-blue-spring-lake-club-sep26-story-2026.png",
+  "property": "Blue Spring Lake Club",
+  "tag": "GLVSTORY26-07b"
+ },
+ {
+  "n": 7,
+  "k": 2,
+  "date": "2026-11-15",
+  "time": "16:02",
+  "slug": "bonnie-suite-725",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-bonnie-suite-725-story-2026.png",
+  "property": "Suite 725",
+  "tag": "GLVSTORY26-07c"
+ },
+ {
+  "n": 8,
+  "k": 0,
+  "date": "2026-11-16",
+  "time": "16:00",
+  "slug": "chicago-suite-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-chicago-suite-aug26-story-2026.png",
+  "property": "Chicago Suite",
+  "tag": "GLVSTORY26-08a"
+ },
+ {
+  "n": 8,
+  "k": 1,
+  "date": "2026-11-16",
+  "time": "16:01",
+  "slug": "quick-trip-getaway-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-quick-trip-getaway-aug26-story-2026.png",
+  "property": "Quick Trip Getaway",
+  "tag": "GLVSTORY26-08b"
+ },
+ {
+  "n": 8,
+  "k": 2,
+  "date": "2026-11-16",
+  "time": "16:02",
+  "slug": "brick-and-mortar-lake-loft-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-brick-and-mortar-lake-loft-aug26-story-2026.png",
+  "property": "Brick and Mortar Lake Loft",
+  "tag": "GLVSTORY26-08c"
+ },
+ {
+  "n": 9,
+  "k": 0,
+  "date": "2026-11-17",
+  "time": "16:00",
+  "slug": "wrigley-beach-house-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-wrigley-beach-house-sep26-story-2026.png",
+  "property": "Wrigley Beach House",
+  "tag": "GLVSTORY26-09a"
+ },
+ {
+  "n": 9,
+  "k": 1,
+  "date": "2026-11-17",
+  "time": "16:01",
+  "slug": "blake-geneva-collection",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-blake-geneva-collection-story-2026.png",
+  "property": "The Geneva Collection",
+  "tag": "GLVSTORY26-09b"
+ },
+ {
+  "n": 9,
+  "k": 2,
+  "date": "2026-11-17",
+  "time": "16:02",
+  "slug": "booked-on-george-sep26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-booked-on-george-sep26-story-2026.png",
+  "property": "Booked on George",
+  "tag": "GLVSTORY26-09c"
+ },
+ {
+  "n": 10,
+  "k": 0,
+  "date": "2026-11-18",
+  "time": "16:00",
+  "slug": "megan-glamping-loft",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-megan-glamping-loft-story-2026.png",
+  "property": "Glamping Loft",
+  "tag": "GLVSTORY26-10a"
+ },
+ {
+  "n": 10,
+  "k": 1,
+  "date": "2026-11-18",
+  "time": "16:01",
+  "slug": "charlene-slow-yourself-down",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-charlene-slow-yourself-down-story-2026.png",
+  "property": "Slow Yourself Down",
+  "tag": "GLVSTORY26-10b"
+ },
+ {
+  "n": 10,
+  "k": 2,
+  "date": "2026-11-18",
+  "time": "16:02",
+  "slug": "lake-life-villa-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-lake-life-villa-aug26-story-2026.png",
+  "property": "Lake Life Villa",
+  "tag": "GLVSTORY26-10c"
+ },
+ {
+  "n": 11,
+  "k": 0,
+  "date": "2026-11-19",
+  "time": "16:00",
+  "slug": "chloe-the-nest",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-chloe-the-nest-story-2026.png",
+  "property": "The Nest",
+  "tag": "GLVSTORY26-11a"
+ },
+ {
+  "n": 11,
+  "k": 1,
+  "date": "2026-11-19",
+  "time": "16:01",
+  "slug": "sit-stay-lake-geneva-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-sit-stay-lake-geneva-aug26-story-2026.png",
+  "property": "Sit Stay Lake Geneva",
+  "tag": "GLVSTORY26-11b"
+ },
+ {
+  "n": 11,
+  "k": 2,
+  "date": "2026-11-19",
+  "time": "16:02",
+  "slug": "big-blue-lakehouse-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-big-blue-lakehouse-aug26-story-2026.png",
+  "property": "Big Blue Lakehouse",
+  "tag": "GLVSTORY26-11c"
+ },
+ {
+  "n": 12,
+  "k": 0,
+  "date": "2026-11-20",
+  "time": "16:00",
+  "slug": "abbey-springs-escape-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-abbey-springs-escape-aug26-story-2026.png",
+  "property": "Abbey Springs Escape",
+  "tag": "GLVSTORY26-12a"
+ },
+ {
+  "n": 12,
+  "k": 1,
+  "date": "2026-11-20",
+  "time": "16:01",
+  "slug": "vip-cabana-at-abbey-villas-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-vip-cabana-at-abbey-villas-aug26-story-2026.png",
+  "property": "VIP Cabana at Abbey Villas",
+  "tag": "GLVSTORY26-12b"
+ },
+ {
+  "n": 12,
+  "k": 2,
+  "date": "2026-11-20",
+  "time": "16:02",
+  "slug": "brick-and-mortar-california-loft-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-brick-and-mortar-california-loft-aug26-story-2026.png",
+  "property": "Brick and Mortar California Loft",
+  "tag": "GLVSTORY26-12c"
+ },
+ {
+  "n": 13,
+  "k": 0,
+  "date": "2026-11-21",
+  "time": "16:00",
+  "slug": "villa-como-at-interlaken-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-villa-como-at-interlaken-aug26-story-2026.png",
+  "property": "Villa Como at Interlaken",
+  "tag": "GLVSTORY26-13a"
+ },
+ {
+  "n": 13,
+  "k": 1,
+  "date": "2026-11-21",
+  "time": "16:01",
+  "slug": "sandy-shores-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-sandy-shores-aug26-story-2026.png",
+  "property": "Sandy Shores",
+  "tag": "GLVSTORY26-13b"
+ },
+ {
+  "n": 13,
+  "k": 2,
+  "date": "2026-11-21",
+  "time": "16:02",
+  "slug": "the-mill-at-lauderdale-lakes-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-the-mill-at-lauderdale-lakes-aug26-story-2026.png",
+  "property": "The Mill at Lauderdale Lakes",
+  "tag": "GLVSTORY26-13c"
+ },
+ {
+  "n": 14,
+  "k": 0,
+  "date": "2026-11-22",
+  "time": "16:00",
+  "slug": "tori-suite-725",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-tori-suite-725-story-2026.png",
+  "property": "Suite 725",
+  "tag": "GLVSTORY26-14a"
+ },
+ {
+  "n": 14,
+  "k": 1,
+  "date": "2026-11-22",
+  "time": "16:01",
+  "slug": "pond-view-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-pond-view-aug26-story-2026.png",
+  "property": "Pond View",
+  "tag": "GLVSTORY26-14b"
+ },
+ {
+  "n": 14,
+  "k": 2,
+  "date": "2026-11-22",
+  "time": "16:02",
+  "slug": "haven-at-waters-edge-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-haven-at-waters-edge-aug26-story-2026.png",
+  "property": "Haven at Water's Edge",
+  "tag": "GLVSTORY26-14c"
+ },
+ {
+  "n": 15,
+  "k": 0,
+  "date": "2026-11-23",
+  "time": "16:00",
+  "slug": "twin-pines-with-pool-house-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-twin-pines-with-pool-house-aug26-story-2026.png",
+  "property": "Twin Pines with Pool House",
+  "tag": "GLVSTORY26-15a"
+ },
+ {
+  "n": 15,
+  "k": 1,
+  "date": "2026-11-23",
+  "time": "16:01",
+  "slug": "vladyslav-spare-time-retreat",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-vladyslav-spare-time-retreat-story-2026.png",
+  "property": "Spare Time Retreat",
+  "tag": "GLVSTORY26-15b"
+ },
+ {
+  "n": 15,
+  "k": 2,
+  "date": "2026-11-23",
+  "time": "16:02",
+  "slug": "starlight-and-lake-views-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-starlight-and-lake-views-aug26-story-2026.png",
+  "property": "Starlight and Lake Views",
+  "tag": "GLVSTORY26-15c"
+ },
+ {
+  "n": 16,
+  "k": 0,
+  "date": "2026-11-24",
+  "time": "16:00",
+  "slug": "francesca-la-suite",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-francesca-la-suite-story-2026.png",
+  "property": "La Suite",
+  "tag": "GLVSTORY26-16a"
+ },
+ {
+  "n": 16,
+  "k": 1,
+  "date": "2026-11-24",
+  "time": "16:01",
+  "slug": "the-crows-nest-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-the-crows-nest-aug26-story-2026.png",
+  "property": "The Crows Nest",
+  "tag": "GLVSTORY26-16b"
+ },
+ {
+  "n": 16,
+  "k": 2,
+  "date": "2026-11-24",
+  "time": "16:02",
+  "slug": "frances-bungalow",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-frances-bungalow-story-2026.png",
+  "property": "The Bungalow",
+  "tag": "GLVSTORY26-16c"
+ },
+ {
+  "n": 17,
+  "k": 0,
+  "date": "2026-11-25",
+  "time": "16:00",
+  "slug": "flats-of-lake-geneva-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-flats-of-lake-geneva-aug26-story-2026.png",
+  "property": "The Flats of Lake Geneva",
+  "tag": "GLVSTORY26-17a"
+ },
+ {
+  "n": 17,
+  "k": 1,
+  "date": "2026-11-25",
+  "time": "16:01",
+  "slug": "susan-tree-house",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-susan-tree-house-story-2026.png",
+  "property": "The Tree House",
+  "tag": "GLVSTORY26-17b"
+ },
+ {
+  "n": 17,
+  "k": 2,
+  "date": "2026-11-25",
+  "time": "16:02",
+  "slug": "white-house-carriage-house-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-white-house-carriage-house-aug26-story-2026.png",
+  "property": "White House Carriage House",
+  "tag": "GLVSTORY26-17c"
+ },
+ {
+  "n": 18,
+  "k": 0,
+  "date": "2026-11-26",
+  "time": "16:00",
+  "slug": "marzena-comotose-by-the-lake",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-marzena-comotose-by-the-lake-story-2026.png",
+  "property": "Comotose by the Lake",
+  "tag": "GLVSTORY26-18a"
+ },
+ {
+  "n": 18,
+  "k": 1,
+  "date": "2026-11-26",
+  "time": "16:01",
+  "slug": "paula-slow-yourself-down",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-paula-slow-yourself-down-story-2026.png",
+  "property": "Slow Yourself Down",
+  "tag": "GLVSTORY26-18b"
+ },
+ {
+  "n": 18,
+  "k": 2,
+  "date": "2026-11-26",
+  "time": "16:02",
+  "slug": "kevin-lakeside-villa",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-kevin-lakeside-villa-story-2026.png",
+  "property": "Lakeside Villa",
+  "tag": "GLVSTORY26-18c"
+ },
+ {
+  "n": 19,
+  "k": 0,
+  "date": "2026-11-27",
+  "time": "16:00",
+  "slug": "carolina-the-nest",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-carolina-the-nest-story-2026.png",
+  "property": "The Nest",
+  "tag": "GLVSTORY26-19a"
+ },
+ {
+  "n": 19,
+  "k": 1,
+  "date": "2026-11-27",
+  "time": "16:01",
+  "slug": "chelsea-lost-oak-on-center",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-chelsea-lost-oak-on-center-story-2026.png",
+  "property": "Lost Oak on Center",
+  "tag": "GLVSTORY26-19b"
+ },
+ {
+  "n": 19,
+  "k": 2,
+  "date": "2026-11-27",
+  "time": "16:02",
+  "slug": "brick-and-mortar-collection-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-brick-and-mortar-collection-aug26-story-2026.png",
+  "property": "The Brick and Mortar Collection",
+  "tag": "GLVSTORY26-19c"
+ },
+ {
+  "n": 20,
+  "k": 0,
+  "date": "2026-11-28",
+  "time": "16:00",
+  "slug": "nawal-suite-725-on-main",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-nawal-suite-725-on-main-story-2026.png",
+  "property": "Suite 725 on Main",
+  "tag": "GLVSTORY26-20a"
+ },
+ {
+  "n": 20,
+  "k": 1,
+  "date": "2026-11-28",
+  "time": "16:01",
+  "slug": "paul-chicago-suite",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-paul-chicago-suite-story-2026.png",
+  "property": "Chicago Suite",
+  "tag": "GLVSTORY26-20b"
+ },
+ {
+  "n": 20,
+  "k": 2,
+  "date": "2026-11-28",
+  "time": "16:02",
+  "slug": "naomy-quick-trip-getaway",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-naomy-quick-trip-getaway-story-2026.png",
+  "property": "Quick Trip Getaway",
+  "tag": "GLVSTORY26-20c"
+ },
+ {
+  "n": 21,
+  "k": 0,
+  "date": "2026-11-29",
+  "time": "16:00",
+  "slug": "lakeshore-lodge-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-lakeshore-lodge-aug26-story-2026.png",
+  "property": "Lakeshore Lodge",
+  "tag": "GLVSTORY26-21a"
+ },
+ {
+  "n": 21,
+  "k": 1,
+  "date": "2026-11-29",
+  "time": "16:01",
+  "slug": "laura-brick-and-mortar-lake-loft",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-laura-brick-and-mortar-lake-loft-story-2026.png",
+  "property": "Brick and Mortar Lake Loft",
+  "tag": "GLVSTORY26-21b"
+ },
+ {
+  "n": 21,
+  "k": 2,
+  "date": "2026-11-29",
+  "time": "16:02",
+  "slug": "new-york-suite-aug26",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-new-york-suite-aug26-story-2026.png",
+  "property": "New York Suite",
+  "tag": "GLVSTORY26-21c"
+ },
+ {
+  "n": 22,
+  "k": 0,
+  "date": "2026-11-30",
+  "time": "16:00",
+  "slug": "jeff-geneva-collection",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-jeff-geneva-collection-story-2026.png",
+  "property": "The Geneva Collection",
+  "tag": "GLVSTORY26-22a"
+ },
+ {
+  "n": 22,
+  "k": 1,
+  "date": "2026-11-30",
+  "time": "16:01",
+  "slug": "kathleen-back-yard",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-kathleen-back-yard-story-2026.png",
+  "property": "The Back Yard",
+  "tag": "GLVSTORY26-22b"
+ },
+ {
+  "n": 22,
+  "k": 2,
+  "date": "2026-11-30",
+  "time": "16:02",
+  "slug": "ashton-glamping-loft",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-ashton-glamping-loft-story-2026.png",
+  "property": "Glamping Loft",
+  "tag": "GLVSTORY26-22c"
+ },
+ {
+  "n": 23,
+  "k": 0,
+  "date": "2026-12-01",
+  "time": "16:00",
+  "slug": "chloe-b-the-downtowner",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-chloe-b-the-downtowner-story-2026.png",
+  "property": "The Downtowner",
+  "tag": "GLVSTORY26-23a"
+ },
+ {
+  "n": 23,
+  "k": 1,
+  "date": "2026-12-01",
+  "time": "16:01",
+  "slug": "heather-lost-oak",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-heather-lost-oak-story-2026.png",
+  "property": "Lost Oak",
+  "tag": "GLVSTORY26-23b"
+ },
+ {
+  "n": 23,
+  "k": 2,
+  "date": "2026-12-01",
+  "time": "16:02",
+  "slug": "makenzi-white-house-main",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-makenzi-white-house-main-story-2026.png",
+  "property": "White House Main",
+  "tag": "GLVSTORY26-23c"
+ },
+ {
+  "n": 24,
+  "k": 0,
+  "date": "2026-12-02",
+  "time": "16:00",
+  "slug": "ben-eagle-lake",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-ben-eagle-lake-story-2026.png",
+  "property": "Eagle Lake",
+  "tag": "GLVSTORY26-24a"
+ },
+ {
+  "n": 24,
+  "k": 1,
+  "date": "2026-12-02",
+  "time": "16:01",
+  "slug": "ricky-geneva-lookout",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-ricky-geneva-lookout-story-2026.png",
+  "property": "The Geneva Lookout",
+  "tag": "GLVSTORY26-24b"
+ },
+ {
+  "n": 24,
+  "k": 2,
+  "date": "2026-12-02",
+  "time": "16:02",
+  "slug": "lisa-flats-of-geneva-lake",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-lisa-flats-of-geneva-lake-story-2026.png",
+  "property": "The Flats of Geneva Lake",
+  "tag": "GLVSTORY26-24c"
+ },
+ {
+  "n": 25,
+  "k": 0,
+  "date": "2026-12-03",
+  "time": "16:00",
+  "slug": "david-blue-sky-oasis",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-david-blue-sky-oasis-story-2026.png",
+  "property": "Blue Sky Oasis",
+  "tag": "GLVSTORY26-25a"
+ },
+ {
+  "n": 25,
+  "k": 1,
+  "date": "2026-12-03",
+  "time": "16:01",
+  "slug": "cheryl-comotose",
+  "img": "https://raw.githubusercontent.com/emilyadamscreative/glv/main/reviews-2026/review-cheryl-comotose-story-2026.png",
+  "property": "Comotose",
+  "tag": "GLVSTORY26-25b"
+ }
+]
